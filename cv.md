@@ -1,22 +1,27 @@
 # Natalia Sterkhova
----
-## Junior Frontend Developer
+### Junior Frontend Developer
 ### Contact Information
 ---
 **Email**: sterkhova@gmail.com
 
 **GitHub**: [AnotherHotKey](https://github.com/AnotherHotKey)
 
-**Telegram**: @AnotherHotKey
+**Telegram**: [@AnotherHotKey](https://t.me/AnotherHotKey)
 ### About Me
 ---
 I have been working for over ten years in a major news media company as a journalist, translater, copywriter and news editor. I explored how news is made and now would like to focus on formats and ways in which it is presented to consumers. I have witnessed how digital innovations have reshaped journalism and I would love to be a part of tech world.
 ### Skills
 ---
 HTML5
+
 CSS3
+
+JavaScript (basic)
+
 Git, GitHub
+
 VSCode
+
 Figma
 ### Example of Code
 ---
