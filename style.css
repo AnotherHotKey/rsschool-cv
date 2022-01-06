@@ -58,6 +58,7 @@ body {
 
   .section {
       width: 50%;
+      padding: 15px;
   }
 
   @media (max-width: 768px) {
@@ -70,20 +71,15 @@ body {
       list-style: none;
   }
 
-  .section-profile {
-      display: flex;
-      width: 100%;
-      flex-direction: row;
-      justify-content: space-around;
-    
-  }
 
-  .footer-element {
+
+.footer-element {
 display: flex;
 width: 100%;
 flex-direction: row;
 justify-content: space-between;
 height: 70px;
+padding: 10px;
 background-color: lightcoral;
   }
 
@@ -99,3 +95,18 @@ background-color: lightcoral;
       text-transform: uppercase;
   }
 
+.avatar {
+    width: 80px; height: 80px;
+}
+
+.section-profile {
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.rslogo {
+    height: 50px;
+    width: 50px;
+}
